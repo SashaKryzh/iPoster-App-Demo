@@ -16,7 +16,7 @@ Also, the app supports two languages: Ukrainian and Russian.
 > *Published for demonstration of my experience in Flutter and overall app development.*
 
 ## Development
-This is the third and the most simple app version. It is written using [Pragmatic state managment](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb): *ChangeNotifier, ChangeNotifierProvider, Consumer*.
+This is the third and the most simple app version. It is written using [Provider state managment](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple): *ChangeNotifier, ChangeNotifierProvider, Consumer*.
 
 #### Technologies used
 * Flutter
@@ -33,7 +33,7 @@ Used state managment: [BLoC](https://www.didierboelens.com/2018/08/reactive-prog
 #### Version 2: iPoster lite
 In the second version, I have implemented only the basic functionality of the website. The code has become much better compared to the first version and we considered publishing it on the App Store. But after looking at the resulting app, we have concluded that this app doesn't solve our problem. So, that's why there is a third version :)
 
-Used state managment: [Pragmatic state managment](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb).
+Used state managment: [Provider state managment](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
 
 > *All versions have been written by me with some help from the iPoster website developer.*
 
