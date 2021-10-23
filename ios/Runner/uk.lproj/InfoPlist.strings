@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Sasha Kryzh on 02.11.2020.
+  
+*/
+
+NSCameraUsageDescription = "Ви зможете відправляти фотографії в чатах";
+NSPhotoLibraryUsageDescription = "Ви зможете відправляти картинки в чатах";
+NSMicrophoneUsageDescription = "Ви зможете записувати звук";
