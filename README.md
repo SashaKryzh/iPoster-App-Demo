@@ -16,9 +16,9 @@ Also, the app supports two languages: Ukrainian and Russian.
 > *Published for demonstration of my experience in Flutter and overall app development.*
 
 ## Development
-This is the third and the most simple app version. It is written using [pragmatic state managment](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb): *ChangeNotifier, ChangeNotifierProvider, Consumer*.
+This is the third and the most simple app version. It is written using [Pragmatic state managment](https://medium.com/flutter-community/flutter-pragmatic-state-management-using-provider-5c1129f9b5bb): *ChangeNotifier, ChangeNotifierProvider, Consumer*.
 
-#### Tecnologies used
+#### Technologies used
 * Flutter
 * Firebase
 * Google / Apple sign in
