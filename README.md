@@ -1,6 +1,6 @@
 # iPoster app (Demo)
 
-This is a demo source code of the iPoster.ua mobile application that I have developed and published to the App Store.
+This is a demo source code of the [iPoster.ua](http://iposter.ua) mobile application that I have developed and published to the [App Store](https://apps.apple.com/ua/app/iposter/id1551116779).
 
 ![iPoster app](/resources/Thumbnail.jpg)
 
@@ -11,7 +11,7 @@ Also, the app supports two languages: Ukrainian and Russian.
 **Links:**
 * [App Store](https://apps.apple.com/ua/app/iposter/id1551116779)
 * [Figma](https://www.figma.com/community/file/1030067581654775051/iPoster-App)
-* iPoster.ua
+* [iPoster.ua](http://iposter.ua)
 
 > *Published for demonstration of my experience in Flutter and overall app development.*
 
